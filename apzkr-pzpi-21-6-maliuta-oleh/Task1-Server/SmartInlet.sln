@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartInlet.Server", "SmartInlet.Server\SmartInlet.Server.csproj", "{AFE5063E-D2FF-45CF-98C5-5A37AA1A7012}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "smartinlet.client", "smartinlet.client\smartinlet.client.esproj", "{77528534-DFE3-4066-B5A5-46BAC582A9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE5063E-D2FF-45CF-98C5-5A37AA1A7012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE5063E-D2FF-45CF-98C5-5A37AA1A7012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE5063E-D2FF-45CF-98C5-5A37AA1A7012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE5063E-D2FF-45CF-98C5-5A37AA1A7012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77528534-DFE3-4066-B5A5-46BAC582A9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77528534-DFE3-4066-B5A5-46BAC582A9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77528534-DFE3-4066-B5A5-46BAC582A9FC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{77528534-DFE3-4066-B5A5-46BAC582A9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77528534-DFE3-4066-B5A5-46BAC582A9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77528534-DFE3-4066-B5A5-46BAC582A9FC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AB1DA9A-2677-4E94-8A70-C4353916C565}
+	EndGlobalSection
+EndGlobal
